@@ -1,8 +1,8 @@
 <template>
   <div>
-    <Header active="home" class="sticky top-0"/>
+    <!-- <Header active="home" class="sticky top-0"/> -->
     <h1>Hello World</h1>
-    <Footer />
+    <!-- <Footer /> -->
   </div>
 </template>
 
